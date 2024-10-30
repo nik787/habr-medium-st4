@@ -1,0 +1,11 @@
+.reviews-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+.reviews-list__item {
+    width: calc(33.33% - 19.99px);
+    min-height: 480px;
+}
